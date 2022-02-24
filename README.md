@@ -1,7 +1,7 @@
 # BASIC PYAUTOGUI KNOWLEDGE REQUIRED
 Only for educational purposes. I do not own any responsibilities because of these.
 
-#Instructions
+# Instructions
 
 1-) Create a text file named "raw.txt" and paste your combos there. Its name MUST be "raw.txt".
 2-) First, run "combosplitter.py", it will split your combos into files "usernames.txt" and "passwords.txt"
