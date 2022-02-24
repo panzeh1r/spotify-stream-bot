@@ -9,3 +9,4 @@ Only for educational purposes. I do not own any responsibilities because of thes
 4-) When everything is ready to go, run bot.py and enter how many tries do you need. (for exmp. 500)
 
 **) I'd suggest incognito mode which is way better. 
+**) Keep each file in the same folder.
